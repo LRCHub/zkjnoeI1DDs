@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ちちんぷいぷい - Manipulate The Time",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-02-23T05:16:45.883428Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ちちんぷいぷい",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_ちちんぷいぷい_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ちちんぷいぷい",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/02_ちちんぷいぷい_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ちちんぷいぷい",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_ちちんぷいぷい_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ちちんぷいぷい",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/04_ちちんぷいぷい_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ちちんぷいぷい",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_ちちんぷいぷい_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chichinpuipui [ちちんぷいぷい]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/06_Chichinpuipui_[ちちんぷいぷい]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chichinpuipui (ちちんぷいぷい; Bibbidi Bobbidi Boo)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/07_Chichinpuipui_(ちちんぷいぷい;_Bibbidi_Bobbidi_Boo)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ちちんぷいぷい (Asia.CD)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_ちちんぷいぷい_(Asia.CD)_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちちんぷいぷい",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_ちちんぷいぷい_椎名_林檎.txt"
+    }
+  ]
+}
